@@ -3,7 +3,8 @@
 
 
 ## 🚀 Sobre mim
-Desenvolvedor Web especializado em React no front-end. Proficiência em tecnologias como  Next.js, TypeScript, JavaScript, Tailwind, Shadcn/UI, Styled-components, HTML, CSS, banco de dados SQL e Nodejs. Atualmente, atuo como freelancer, criando websites e web apps focados em UI/UX e aplicando vieses cognitivos ao design.
+Desenvolvedor Web Full Stack especializado em React e Java. Proficiente em Next.js, Tailwind, com experiência em PL/SQL e bancos de dados Oracle.
+Atualmente, trabalho com Oracle PL/SQL e Java, e atuo como freelancer em projetos web.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://richard-mezzomo-portfolio.vercel.app/) 
